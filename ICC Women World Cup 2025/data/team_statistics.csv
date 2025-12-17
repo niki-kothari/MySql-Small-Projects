@@ -1,0 +1,9 @@
+team,matches,wins,losses,no_result,win_percentage,highest_total,lowest_total,highest_run_chase,avg_first_innings,avg_second_innings
+Australia,9,7,2,0,77.78,330,97,333,265.6,208.5
+South Africa,10,6,4,0,60.00,319,69,248,189.2,195.4
+India,10,8,2,0,80.00,333,185,336,266.8,216.3
+England,9,5,4,0,55.56,236,118,235,199.4,182.7
+New Zealand,8,3,5,0,37.50,249,168,278,211.8,228.6
+Bangladesh,8,3,4,1,42.86,168,118,133,138.6,145.2
+Sri Lanka,8,2,5,1,28.57,221,132,221,172.4,187.3
+Pakistan,8,0,7,1,0.00,181,85,NA,142.8,128.4

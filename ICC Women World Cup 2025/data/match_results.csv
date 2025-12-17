@@ -1,0 +1,32 @@
+match_id,date,match_type,venue,team1,team2,toss_winner,toss_decision,team1_score,team2_score,winner,margin,player_of_match
+1,2025-09-30,Group Stage,Guwahati,India,Sri Lanka,Sri Lanka,Field,269/8 (47 ov),211 (45.4 ov),India,59 runs (DLS),Smriti Mandhana
+2,2025-10-01,Group Stage,Indore,Australia,New Zealand,Australia,Bat,326,237 (43.2 ov),Australia,89 runs,Phoebe Litchfield
+3,2025-10-02,Group Stage,Colombo,Pakistan,Bangladesh,Pakistan,Bat,129,131/3 (31.1 ov),Bangladesh,7 wickets,Nigar Sultana
+4,2025-10-03,Group Stage,Guwahati,South Africa,England,South Africa,Bat,69,72/3 (17.4 ov),England,7 wickets,Marizanne Kapp
+5,2025-10-04,Group Stage,Indore,Sri Lanka,Australia,Australia,Bat,215/8,219/3 (32.2 ov),Australia,7 wickets,Ellyse Perry
+6,2025-10-05,Group Stage,Visakhapatnam,India,Pakistan,India,Bat,295/8,239,India,56 runs,Harmanpreet Kaur
+7,2025-10-06,Group Stage,Colombo,New Zealand,South Africa,New Zealand,Bat,244,248/5 (49.1 ov),South Africa,5 wickets,Laura Wolvaardt
+8,2025-10-07,Group Stage,Guwahati,Bangladesh,England,England,Field,118,119/2 (24.3 ov),England,8 wickets,Sophie Ecclestone
+9,2025-10-08,Group Stage,Colombo,Australia,Pakistan,Australia,Bat,286/6,142,Australia,144 runs,Ashleigh Gardner
+10,2025-10-09,Group Stage,Indore,India,South Africa,India,Bat,185/8,190/3 (40.5 ov),South Africa,7 wickets,Nadine de Klerk
+11,2025-10-10,Group Stage,Guwahati,New Zealand,Bangladesh,New Zealand,Bat,249,225,New Zealand,24 runs,Amelia Kerr
+12,2025-10-11,Group Stage,Colombo,England,Sri Lanka,Sri Lanka,Field,217,221/5 (43.3 ov),Sri Lanka,5 wickets,Chamari Athapaththu
+13,2025-10-12,Group Stage,Navi Mumbai,India,Australia,Australia,Bat,330,333/5 (47.5 ov),Australia,5 wickets,Tahlia McGrath
+14,2025-10-13,Group Stage,Visakhapatnam,Bangladesh,South Africa,South Africa,Bat,168/9,169/1 (30.4 ov),South Africa,9 wickets,Tazmin Brits
+15,2025-10-14,Group Stage,Guwahati,Sri Lanka,New Zealand,New Zealand,Bat,202,205/3 (37.4 ov),New Zealand,7 wickets,Sophie Devine
+16,2025-10-15,Group Stage,Colombo,England,Pakistan,England,Field,142,145/2 (26.2 ov),England,8 wickets,Nat Sciver-Brunt
+17,2025-10-16,Group Stage,Visakhapatnam,Bangladesh,Australia,Australia,Field,128,129/0 (16.3 ov),Australia,10 wickets,Alyssa Healy
+18,2025-10-17,Group Stage,Colombo,Sri Lanka,South Africa,South Africa,Bat,153,154/3 (31.2 ov),South Africa,7 wickets,Marizanne Kapp
+19,2025-10-18,Group Stage,Colombo,Pakistan,New Zealand,New Zealand,Field,181,182/3 (39.2 ov),New Zealand,7 wickets,Suzie Bates
+20,2025-10-19,Group Stage,Navi Mumbai,England,India,England,Field,231,235/5 (48.2 ov),India,5 wickets,Smriti Mandhana
+21,2025-10-20,Group Stage,Colombo,Sri Lanka,Bangladesh,Bangladesh,Field,132,133/4 (28.1 ov),Bangladesh,6 wickets,Fargana Hoque
+22,2025-10-21,Group Stage,Colombo,South Africa,Pakistan,South Africa,Bat,235,85,South Africa,150 runs,Ayabonga Khaka
+23,2025-10-22,Group Stage,Indore,England,Australia,Australia,Field,236,237/4 (39.1 ov),Australia,6 wickets,Beth Mooney
+24,2025-10-23,Group Stage,Navi Mumbai,India,New Zealand,India,Bat,274,278/5 (48.3 ov),New Zealand,5 wickets,Brooke Halliday
+25,2025-10-24,Group Stage,Colombo,Pakistan,Sri Lanka,NA,NA,18/0 (4.2 ov),No result,No result,No result,NA
+26,2025-10-25,Group Stage,Indore,South Africa,Australia,South Africa,Bat,97,98/3 (16.5 ov),Australia,7 wickets,Alana King
+27,2025-10-26,Group Stage,Visakhapatnam,New Zealand,England,New Zealand,Bat,168,172/2 (29.2 ov),England,8 wickets,Heather Knight
+28,2025-10-26,Group Stage,Navi Mumbai,Bangladesh,India,Bangladesh,Bat,119/9 (27 ov),57/0 (8.4 ov),No result,No result,NA
+29,2025-10-29,Semi Final 1,Guwahati,South Africa,England,South Africa,Bat,319/7,194 (42.3 ov),South Africa,125 runs,Laura Wolvaardt
+30,2025-10-30,Semi Final 2,Navi Mumbai,India,Australia,Australia,Bat,333,336/4 (48.2 ov),India,6 wickets,Jemimah Rodrigues
+31,2025-11-02,Final,Navi Mumbai,India,South Africa,South Africa,Field,298/7,246 (45.3 ov),India,52 runs,Shafali Verma
