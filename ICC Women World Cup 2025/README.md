@@ -1,6 +1,7 @@
-# Basic MySQL Project
+# ICC Women World Cup 2025
 
 This is a simple MySQL-based **ICC Women World Cup 2025** project created for beginners to practice.  
+It contains all the data regarding the Women World Cup details like match details, winning team details, venue details, POTM/POTT details, etc.
 The project demonstrates how to create tables, insert data, and perform basic operations using MySQL.
 
 ## 📌 Features
